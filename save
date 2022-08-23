@@ -9,8 +9,10 @@
         <div class=menu-container>
             <div class="menu">
                 <div class="date">Aug 14, 2016</div>
-                <div class="signup">Sign Up</div>
-                <div class="login">Login</div>
+                <div class="links">
+                    <div class="signup">Sign Up</div>
+                    <div class="login">Login</div>
+                </div>
             </div>
         </div>
         <div class="header-container">
@@ -37,7 +39,6 @@
                 <div class="photo-grid-item last-item">
                     <img src="images/five.svg"/>
                 </div>
-            </div>
         </div>
              <div class="footer">
                 <div class="footer-item footer-one"></div>
